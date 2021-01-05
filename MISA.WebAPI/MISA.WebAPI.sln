@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.WebAPI", "MISA.WebAPI\MISA.WebAPI.csproj", "{065F7906-7150-4FD5-A5A4-BEDFA0F352AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065F7906-7150-4FD5-A5A4-BEDFA0F352AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065F7906-7150-4FD5-A5A4-BEDFA0F352AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065F7906-7150-4FD5-A5A4-BEDFA0F352AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065F7906-7150-4FD5-A5A4-BEDFA0F352AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E3A7BAB-59A5-42ED-9524-F038FA4FF9DF}
+	EndGlobalSection
+EndGlobal
